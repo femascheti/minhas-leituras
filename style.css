@@ -25,6 +25,10 @@ header {
     margin: 42px 42px;
 }
 
+header p {
+    font-size: 20px;
+}
+
 .container {
     max-width: 1200px;
     margin: 20px auto;
@@ -33,6 +37,7 @@ header {
 
 h1 {
     margin-top: 0;
+    font-size: 35px;
 }
 
 .livros {
