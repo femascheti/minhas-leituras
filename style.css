@@ -21,6 +21,10 @@ header {
     padding: 20px 0;
 }
 
+.cabecalho {
+    margin: 42px 42px;
+}
+
 .container {
     max-width: 1200px;
     margin: 20px auto;
@@ -31,14 +35,14 @@ h1 {
     margin-top: 0;
 }
 
-.books {
+.livros {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin-top: 20px;
 }
 
-.book {
+.livro {
     width: 23%;
     background-color: #fff;
     border-radius: 5px;
@@ -46,17 +50,17 @@ h1 {
     margin-bottom: 20px;
 }
 
-.book img {
+.livro img {
     max-width: 100%;
     border-radius: 5px;
     margin-bottom: 10px;
 }
 
-.book h2 {
+.livro h2 {
     margin-top: 0;
 }
 
-.book p {
+.livro p {
     margin: 5px 0;
 }
 
